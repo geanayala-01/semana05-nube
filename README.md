@@ -12,7 +12,7 @@ Docente: Jaime Farfán
 | `lab-ejercicio3/` | Persistencia de datos en MySQL con volúmenes nombrados |
 | `lab-ejercicio4/` | Variables de entorno (`.env`) y healthchecks |
 
-## Cómo ejecutar cada ejercicio
+## Cómo ejecutar cada ejercicio:
 
 Entrar a la carpeta correspondiente y levantar los servicios:
 
